@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Diary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|c:\\users\\user\\source\\repos\\diary\\diaryapp\\views\\diaryentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\views\\diaryentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|c:\\users\\user\\source\\repos\\diary\\diaryapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|c:\\users\\user\\source\\repos\\diary\\diaryapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|c:\\users\\user\\source\\repos\\diary\\diaryapp\\views\\diaryentries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\views\\diaryentries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|c:\\users\\user\\source\\repos\\diary\\diaryapp\\controllers\\diaryentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\controllers\\diaryentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|c:\\users\\user\\source\\repos\\diary\\diaryapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|c:\\users\\user\\source\\repos\\diary\\diaryapp\\views\\home\\mypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\views\\home\\mypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|c:\\users\\user\\source\\repos\\diary\\diaryapp\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|c:\\users\\user\\source\\repos\\diary\\diaryapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|c:\\users\\user\\source\\repos\\diary\\diaryapp\\views\\home\\mypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\views\\home\\mypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|c:\\users\\user\\source\\repos\\diary\\diaryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|c:\\users\\user\\source\\repos\\diary\\diaryapp\\migrations\\20260321221515_adddiaryentrytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47B3DABC-D9F7-4FF3-AFB3-F0A40C1C59A7}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\migrations\\20260321221515_adddiaryentrytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,59 +46,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "DiaryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeToolTip": "DiaryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ViewState": "AgIAAK40AAAAAAAAAAAiwMc0AAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-24T03:39:50.656Z",
+              "DocumentIndex": 3,
+              "Title": "DiaryEntry.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Models\\DiaryEntry.cs",
+              "RelativeDocumentMoniker": "DiaryApp\\Models\\DiaryEntry.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Models\\DiaryEntry.cs",
+              "RelativeToolTip": "DiaryApp\\Models\\DiaryEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T03:43:28.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DiaryApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DiaryApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Views\\DiaryEntries\\Create.cshtml",
+              "RelativeDocumentMoniker": "DiaryApp\\Views\\DiaryEntries\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Views\\DiaryEntries\\Create.cshtml",
+              "RelativeToolTip": "DiaryApp\\Views\\DiaryEntries\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-24T03:39:22.706Z",
+              "WhenOpened": "2026-03-24T18:56:37.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "DiaryApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "DiaryApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T19:54:00.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DiaryApp\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "DiaryApp\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T19:53:44.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "MyPage.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Views\\Home\\MyPage.cshtml",
               "RelativeDocumentMoniker": "DiaryApp\\Views\\Home\\MyPage.cshtml",
@@ -123,46 +98,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Views\\DiaryEntries\\Index.cshtml",
-              "RelativeDocumentMoniker": "DiaryApp\\Views\\DiaryEntries\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Views\\DiaryEntries\\Index.cshtml",
-              "RelativeToolTip": "DiaryApp\\Views\\DiaryEntries\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-21T22:54:52.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DiaryEntriesController.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Controllers\\DiaryEntriesController.cs",
               "RelativeDocumentMoniker": "DiaryApp\\Controllers\\DiaryEntriesController.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Controllers\\DiaryEntriesController.cs",
               "RelativeToolTip": "DiaryApp\\Controllers\\DiaryEntriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-21T22:30:37.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20260321221515_AddDiaryEntryTable.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Migrations\\20260321221515_AddDiaryEntryTable.cs",
-              "RelativeDocumentMoniker": "DiaryApp\\Migrations\\20260321221515_AddDiaryEntryTable.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Migrations\\20260321221515_AddDiaryEntryTable.cs",
-              "RelativeToolTip": "DiaryApp\\Migrations\\20260321221515_AddDiaryEntryTable.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T22:15:15.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Diary\\DiaryApp\\Program.cs",
               "RelativeDocumentMoniker": "DiaryApp\\Program.cs",
@@ -170,8 +119,7 @@
               "RelativeToolTip": "DiaryApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T20:57:26.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-21T20:57:26.634Z"
             }
           ]
         }
